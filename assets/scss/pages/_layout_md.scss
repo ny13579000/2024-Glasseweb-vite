@@ -89,6 +89,14 @@
         font-size: 16px;
     }
   }
+  .blog-content{
+    .content{
+      p{
+        padding-top: 16px;
+        padding-bottom: 16px;
+      }
+    }
+  }
   .header-prodct{
     .banner1{
       background-image: url('/assets/images/product-header-sm-1.png');
