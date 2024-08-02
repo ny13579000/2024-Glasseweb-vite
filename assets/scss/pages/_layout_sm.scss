@@ -47,6 +47,7 @@
     }
   }
   .jointn{
+    background: url('/assets/images/index-bg-sm.png') no-repeat center / cover;
     .glasses1{
       background: url('/assets/images/home-section4-1-sm.png') no-repeat center / cover;
       max-width: 100%;
@@ -131,6 +132,16 @@
       width: 376px;
       height: 136px;
       display: inline-block;
+    }
+  }
+  .nav-poudct {
+    .container {
+      max-width: 100%;
+      padding: 0;
+      a {
+        font-size: 16px;
+        padding: 16px 0;
+      }
     }
   }
   .navsearch{
